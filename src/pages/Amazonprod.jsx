@@ -17,7 +17,7 @@ const AmazonProd = () => {
       <span key={index} className={index < rating ? "text-yellow-500" : "text-gray-300"}>
         ★
       </span>
-    ));
+    ));//wwhheiie
   };
 
 
